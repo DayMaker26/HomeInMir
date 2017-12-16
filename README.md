@@ -1,2 +1,3 @@
 # HomeInMir
-# i will be learning and applying everything i know to build an advaced comunication software
+i am trying to learn how to code and develop virtual reality software to host Homeinmir
+an advanced comunication platform.
